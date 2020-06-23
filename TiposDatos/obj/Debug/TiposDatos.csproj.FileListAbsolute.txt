@@ -1,0 +1,7 @@
+C:\Users\tatat\Source\Repos\TiposDatos\bin\Debug\TiposDatos.exe.config
+C:\Users\tatat\Source\Repos\TiposDatos\bin\Debug\TiposDatos.exe
+C:\Users\tatat\Source\Repos\TiposDatos\bin\Debug\TiposDatos.pdb
+C:\Users\tatat\Source\Repos\TiposDatos\obj\Debug\TiposDatos.csprojAssemblyReference.cache
+C:\Users\tatat\Source\Repos\TiposDatos\obj\Debug\TiposDatos.csproj.CoreCompileInputs.cache
+C:\Users\tatat\Source\Repos\TiposDatos\obj\Debug\TiposDatos.exe
+C:\Users\tatat\Source\Repos\TiposDatos\obj\Debug\TiposDatos.pdb

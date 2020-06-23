@@ -1,0 +1,7 @@
+C:\Users\tatat\Source\Repos\Ciclos\bin\Debug\Ciclos.exe.config
+C:\Users\tatat\Source\Repos\Ciclos\bin\Debug\Ciclos.exe
+C:\Users\tatat\Source\Repos\Ciclos\bin\Debug\Ciclos.pdb
+C:\Users\tatat\Source\Repos\Ciclos\obj\Debug\Ciclos.csprojAssemblyReference.cache
+C:\Users\tatat\Source\Repos\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\tatat\Source\Repos\Ciclos\obj\Debug\Ciclos.exe
+C:\Users\tatat\Source\Repos\Ciclos\obj\Debug\Ciclos.pdb

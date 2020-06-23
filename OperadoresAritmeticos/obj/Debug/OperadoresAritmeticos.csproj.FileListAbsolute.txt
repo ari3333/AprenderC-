@@ -1,0 +1,7 @@
+C:\Users\tatat\Source\Repos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe.config
+C:\Users\tatat\Source\Repos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+C:\Users\tatat\Source\Repos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+C:\Users\tatat\Source\Repos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csprojAssemblyReference.cache
+C:\Users\tatat\Source\Repos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\tatat\Source\Repos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+C:\Users\tatat\Source\Repos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb

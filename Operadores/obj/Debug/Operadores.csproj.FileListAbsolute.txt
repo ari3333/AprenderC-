@@ -1,0 +1,7 @@
+C:\Users\tatat\Source\Repos\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\tatat\Source\Repos\Operadores\bin\Debug\Operadores.exe
+C:\Users\tatat\Source\Repos\Operadores\bin\Debug\Operadores.pdb
+C:\Users\tatat\Source\Repos\Operadores\obj\Debug\Operadores.csprojAssemblyReference.cache
+C:\Users\tatat\Source\Repos\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\tatat\Source\Repos\Operadores\obj\Debug\Operadores.exe
+C:\Users\tatat\Source\Repos\Operadores\obj\Debug\Operadores.pdb

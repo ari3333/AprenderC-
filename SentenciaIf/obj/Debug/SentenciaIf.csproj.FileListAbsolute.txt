@@ -1,0 +1,7 @@
+C:\Users\tatat\Source\Repos\SentenciaIf\bin\Debug\SentenciaIf.exe.config
+C:\Users\tatat\Source\Repos\SentenciaIf\bin\Debug\SentenciaIf.exe
+C:\Users\tatat\Source\Repos\SentenciaIf\bin\Debug\SentenciaIf.pdb
+C:\Users\tatat\Source\Repos\SentenciaIf\obj\Debug\SentenciaIf.csprojAssemblyReference.cache
+C:\Users\tatat\Source\Repos\SentenciaIf\obj\Debug\SentenciaIf.csproj.CoreCompileInputs.cache
+C:\Users\tatat\Source\Repos\SentenciaIf\obj\Debug\SentenciaIf.exe
+C:\Users\tatat\Source\Repos\SentenciaIf\obj\Debug\SentenciaIf.pdb

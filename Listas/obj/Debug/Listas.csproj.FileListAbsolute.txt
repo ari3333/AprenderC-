@@ -1,0 +1,7 @@
+C:\Users\tatat\Source\Repos\Listas\bin\Debug\Listas.exe.config
+C:\Users\tatat\Source\Repos\Listas\bin\Debug\Listas.exe
+C:\Users\tatat\Source\Repos\Listas\bin\Debug\Listas.pdb
+C:\Users\tatat\Source\Repos\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+C:\Users\tatat\Source\Repos\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\tatat\Source\Repos\Listas\obj\Debug\Listas.exe
+C:\Users\tatat\Source\Repos\Listas\obj\Debug\Listas.pdb

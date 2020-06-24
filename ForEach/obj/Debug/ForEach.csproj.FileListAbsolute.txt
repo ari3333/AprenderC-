@@ -1,0 +1,7 @@
+C:\Users\tatat\Source\Repos\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\tatat\Source\Repos\ForEach\bin\Debug\ForEach.exe
+C:\Users\tatat\Source\Repos\ForEach\bin\Debug\ForEach.pdb
+C:\Users\tatat\Source\Repos\ForEach\obj\Debug\ForEach.csprojAssemblyReference.cache
+C:\Users\tatat\Source\Repos\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\tatat\Source\Repos\ForEach\obj\Debug\ForEach.exe
+C:\Users\tatat\Source\Repos\ForEach\obj\Debug\ForEach.pdb

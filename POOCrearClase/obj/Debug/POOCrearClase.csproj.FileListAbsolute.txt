@@ -1,0 +1,10 @@
+C:\Users\tatat\Source\Repos\POOCrearClase\bin\Debug\POOCrearClase.exe.config
+C:\Users\tatat\Source\Repos\POOCrearClase\bin\Debug\POOCrearClase.exe
+C:\Users\tatat\Source\Repos\POOCrearClase\bin\Debug\POOCrearClase.pdb
+C:\Users\tatat\Source\Repos\POOCrearClase\obj\Debug\POOCrearClase.csprojAssemblyReference.cache
+C:\Users\tatat\Source\Repos\POOCrearClase\obj\Debug\POOCrearClase.Form1.resources
+C:\Users\tatat\Source\Repos\POOCrearClase\obj\Debug\POOCrearClase.Properties.Resources.resources
+C:\Users\tatat\Source\Repos\POOCrearClase\obj\Debug\POOCrearClase.csproj.GenerateResource.cache
+C:\Users\tatat\Source\Repos\POOCrearClase\obj\Debug\POOCrearClase.csproj.CoreCompileInputs.cache
+C:\Users\tatat\Source\Repos\POOCrearClase\obj\Debug\POOCrearClase.exe
+C:\Users\tatat\Source\Repos\POOCrearClase\obj\Debug\POOCrearClase.pdb
